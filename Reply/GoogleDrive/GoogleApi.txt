@@ -1,0 +1,4 @@
+クライアントID
+  444272783717-ssqj1qglb5kb8uacrjpoklqp6f2noa9u.apps.googleusercontent.com
+クライアントシークレット
+  mC8JIkP_NzJXVJuNWrj9jt5E
